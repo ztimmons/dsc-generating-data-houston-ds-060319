@@ -1,5 +1,5 @@
 
-# Data Generation Process - Codealong
+# Generating Data - Codealong
 
 ## Introduction
 Data analysis often require analysts to test the efficiency/performance of an algorithm with a certain type of data. In such cases, the focus is not to answer some analytical question as we have seen earlier, but to test some machine learning hypothesis dealing with , say, comparing two different algorithms to see which one gives a higher level of accuracy. In such cases, the analysts would normally deal with synthetic random data which they generate themselves. This lab and upcoming lesson will highlight some data generation techniques that you can use later to learn new algorithms while not indulging too much into the domain knowledge.  
