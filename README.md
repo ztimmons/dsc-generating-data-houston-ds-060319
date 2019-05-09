@@ -186,6 +186,6 @@ plt.show()
 
 sklearn comes with a lot of data generation functions. We have seen a few popular ones in this context. Kindly visit [This link](https://scikit-learn.org/stable/datasets/index.html) and have a look at section 5.4 to get more practice with these functions and see other similar functions. 
 
-# Summary 
+## Summary 
 
 In this lesson, we looked at generating random datasets for classification and regression tasks using sklearn's built in functions. We looked at some of the attributes for generating data and you are encouraged to dig deeper with the official doc. and see what else can you achieve with more parameters. While learning a new algorithm, these synthetic datasets help you take your focus off the domain and work only with the computational and performance aspects of the algorithm. 
